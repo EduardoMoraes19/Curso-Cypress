@@ -57,6 +57,8 @@ Através de cenários de testes end-to-end, consigo:
 
 ✅ Reduzir retrabalho e acelerar ciclos de desenvolvimento  
 
+Para dúvidas ou sugestões, entre em contato: eduardodev19@gmail.com
+
 
 
 https://github.com/user-attachments/assets/b403986d-e1ea-47c5-8188-94743e63646f
