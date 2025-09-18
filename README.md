@@ -28,8 +28,25 @@ Teste do comportamento do formulário ao preencher e resetar os dados.
 
 Uso de comando customizado para preencher campos obrigatórios.  
 
+# Como rodar os testes  
 
+1.Clone este repositório:  
+  git clone <URL_DO_REPOSITORIO>  
 
+2.Instale as dependências:  
+  npm install
+
+3.Execute o Cypress:  
+  npx cypress open  
+
+# Tecnologias utilizadas  
+
+Cypress - Framework de testes end-to-end para aplicações web.  
+
+JavaScript
+
+# Conclusão
+  
 Através de cenários de testes end-to-end, consigo:  
 
 ✅ Validar o fluxo completo do usuário  
